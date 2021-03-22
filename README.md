@@ -1,4 +1,4 @@
-### `println` **"Hello World!"**
+## `println` **"Hello World!"**
 I'm Sung Mingi (A.K.A FiestaLake), one of the many students in South Korea! </br>
 
 ## Info / Hobby
