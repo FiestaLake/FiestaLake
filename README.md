@@ -1,16 +1,20 @@
-### Hi there 👋
+### `println` **"Hello World!"**
+I'm Sung Mingi (A.K.A FiestaLake), one of the many students in South Korea! </br>
 
-<!--
-**FiestaLake/FiestaLake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Info / Hobby
+As a student in Korea, I still study a lot of subjects. </br>
+But one of the most subjects I like is development. </br>
+I have been interested in IT since when I was young. </br>
+I'm interested in various developments </br>
+such as Android Development, Web Development, etc...
 
-Here are some ideas to get you started:
+## Current Projects
+* <a href="https://github.com/FiestaLake/tgbot">MissMinji_bot in Telegram</a>
+* <a href="https://github.com/FiestaLake/Smg-Kernel-Project_heroxlte">Fuesial-Kernel for exynos8890</a>
+* <a href="https://github.com/FiestaLake/SmartPack-KR">Korean translations for SmartPack apps</a>
+* Other fun stuffs like Android Rom Building trees.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+`ProtonMail: FiestaLake@protonmail.com
+Gmail: FiestaLake@gmail.com
+Telegram: FiestaLake`
