@@ -1,5 +1,5 @@
 ## `println` **"Hello World!"**
-I'm Sung Mingi (A.K.A FiestaLake), one of the many students in South Korea! </br>
+I'm Sung Mingi (A.K.A FiestaLake), one of students in South Korea! </br>
 
 ## Info / Hobby
 As a student in Korea, I still study a lot of subjects. </br>
