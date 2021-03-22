@@ -15,6 +15,9 @@ such as Android Development, Web Development, etc...
 * Other fun stuffs like Android Rom Building trees.
 
 ## Contact me
-`ProtonMail: FiestaLake@protonmail.com </br>
-Gmail: FiestaLake@gmail.com </br>
-Telegram: FiestaLake`
+        Telegram : https://t.me/FiestaLake   
+      ProtonMail : FiestaLake@protonmail.com
+           Gmail : FiestaLake@gmail.com
+           
+[![FiestaLake's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiestaLake&show_icons=true&theme=radical&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=FiestaLake)
