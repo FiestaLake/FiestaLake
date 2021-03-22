@@ -1,4 +1,4 @@
-## `println` **"Hello World!"** ![](https://komarev.com/ghpvc/?username=FiestaLake)
+## `println` **"Hello World!"**
 I'm Sung Mingi (A.K.A FiestaLake), one of the many students in South Korea! </br>
 
 ## Info / Hobby
