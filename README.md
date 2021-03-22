@@ -18,5 +18,3 @@ such as Android Development, Web Development, etc...
         Telegram : https://t.me/FiestaLake   
       ProtonMail : FiestaLake@protonmail.com
            Gmail : FiestaLake@gmail.com
-           
-[![FiestaLake's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiestaLake&show_icons=true&theme=radical&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
