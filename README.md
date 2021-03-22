@@ -1,4 +1,4 @@
-## `println` **"Hello World!"**
+## `println` **"Hello World!"** ![](https://komarev.com/ghpvc/?username=FiestaLake)
 I'm Sung Mingi (A.K.A FiestaLake), one of the many students in South Korea! </br>
 
 ## Info / Hobby
@@ -20,4 +20,3 @@ such as Android Development, Web Development, etc...
            Gmail : FiestaLake@gmail.com
            
 [![FiestaLake's GitHub stats](https://github-readme-stats.vercel.app/api?username=FiestaLake&show_icons=true&theme=radical&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=FiestaLake)
