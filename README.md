@@ -15,6 +15,6 @@ such as Android Development, Web Development, etc...
 * Other fun stuffs like Android Rom Building trees.
 
 ## Contact me
-`ProtonMail: FiestaLake@protonmail.com
-Gmail: FiestaLake@gmail.com
+`ProtonMail: FiestaLake@protonmail.com </br>
+Gmail: FiestaLake@gmail.com </br>
 Telegram: FiestaLake`
