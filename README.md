@@ -8,6 +8,10 @@ I have been interested in IT since when I was young. </br>
 I'm interested in various developments </br>
 such as Android Development, Web Development, etc...
 
+## Current Learning Languages
+* Go
+* Python
+
 ## Current Projects
 * <a href="https://github.com/FiestaLake/tgbot">MissMinji_bot in Telegram</a>
 * <a href="https://github.com/FiestaLake/Smg-Kernel-Project_heroxlte">Fuesial-Kernel for exynos8890</a>
