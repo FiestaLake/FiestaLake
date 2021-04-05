@@ -2,9 +2,8 @@
 I'm Sung Mingi (A.K.A FiestaLake), one of students in South Korea! </br>
 
 ## Info / Hobby
-As a student in Korea, I still study a lot of subjects. </br>
-But one of the most subjects I like is development. </br>
-I have been interested in IT since when I was young. </br>
+I have been interested in IT things since when I was young. </br>
+I even rooted my phone when I was in second grade in the elementary school. </br>
 I'm interested in various developments </br>
 such as Android Development, Web Development, etc...
 
