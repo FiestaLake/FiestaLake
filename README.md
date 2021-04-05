@@ -13,7 +13,8 @@ such as Android Development, Web Development, etc...
 * Python
 
 ## Current Projects
-* <a href="https://github.com/FiestaLake/tgbot">MissMinji_bot in Telegram</a>
+* A Telegram bot written in Go using <a href="https://github.com/PaulSonOfLars/gotgbot">this library</a>
+* <a href="https://github.com/FiestaLake/tgbot">Minji bot (Python3)</a> in <a href="https://t.me/MissMinji_bot">Telegram</a>
 * <a href="https://github.com/FiestaLake/Smg-Kernel-Project_heroxlte">Fuesial-Kernel for exynos8890</a>
 * <a href="https://github.com/FiestaLake/SmartPack-KR">Korean translations for SmartPack apps</a>
 * Other fun stuffs like Android Rom Building trees.
