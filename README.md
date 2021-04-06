@@ -1,22 +1,25 @@
 ## `echo` **"Hello World!"**
-I'm Sung Mingi (A.K.A FiestaLake), one of students in South Korea! </br>
+I'm Sung Mingi (A.K.A FiestaLake)! </br>
 
 ## Info / Hobby
-I have been interested in IT things since when I was young. </br>
-I even rooted my phone when I was in second grade in the elementary school. </br>
-I'm interested in various developments </br>
-such as Android Development, Web Development, etc...
+* Still a young student. </br>
+* Interested in various developments. </br>
+* In South Korea. (Not north for sure.) </br>
 
 ## Current Learning Languages
 * Go
 * Python
 
+## Languages Planned to Learn in near Future
+* C & C++
+* JS
+* Rust
+
 ## Current Projects
 * A Telegram bot written in Go using <a href="https://github.com/PaulSonOfLars/gotgbot">this library</a>
 * <a href="https://github.com/FiestaLake/tgbot">Minji bot (Python3)</a> in <a href="https://t.me/MissMinji_bot">Telegram</a>
-* <a href="https://github.com/FiestaLake/Smg-Kernel-Project_heroxlte">Fuesial-Kernel for exynos8890</a>
+* <a href="https://github.com/FiestaLake/Smg-Kernel-Project_heroxlte">Fuesial-Kernel for Exynos 8890</a>
 * <a href="https://github.com/FiestaLake/SmartPack-KR">Korean translations for SmartPack apps</a>
-* Other fun stuffs like Android Rom Building trees.
 
 ## Contact me
         Telegram : https://t.me/FiestaLake   
