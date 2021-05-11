@@ -22,6 +22,6 @@ I'm Sung Mingi (A.K.A FiestaLake)! </br>
 * <a href="https://github.com/FiestaLake/SmartPack-KR">Korean translations for SmartPack apps</a>
 
 ## Contact me
-        Telegram : (Deleted)
+        Telegram : https://t.me/FiestaLake
       ProtonMail : FiestaLake@protonmail.com
            Gmail : FiestaLake@gmail.com
