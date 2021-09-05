@@ -3,7 +3,7 @@ Hello there! My name is Sung Mingi, known as FiestaLake or Smg. </br>
 
 ## Info / Hobby
 * A Korean student who are pretty ordinary.
-* I live in South Korea. Don't ask me if you are from North Korea.
+* I live in South Korea. Not North.
 * I like playing with Operating Systems, Bots, and other pretty projects!
 * Using Gnome with Arch Linux mainly.
 
